@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "创造粒中心",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#18ba7a",
+  "navigationBarTextStyle": "white",
+  "backgroundColor": "#18ba7a",
+  "usingComponents": {
+    "kevy-mask": "/components/kevy-mask/kevy-mask"
+  }
+}
